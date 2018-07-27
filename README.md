@@ -2,7 +2,7 @@
 
 ### TodoLists
 1. 研究如何在项目中使用阿里的iconfont库
-2. 看完react-navigation 和 FlatList 并尝试使用！
+2. 看完react-navigation和FlatList 并尝试使用！
 
 ### 项目推进记录
 
@@ -11,7 +11,13 @@
 
 #### 2018-07-27 22:49:40
 >1. 新增了首页的搜索组件 
-
+>2. 解决github push总是卡住的问题 
+```
+解决方案： 
+添加sendpack.sideband属性并置为false就解决了。
+全局的：git config --global sendpack.sideband false
+仓库的：git config --local sendpack.sideband false
+````
 ### 项目结构变化记录
 #### 2018-07-27 16:12:40
 1. /config
