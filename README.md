@@ -1,8 +1,9 @@
-# 本项目是使用react-native 编写的小说App
+# 本项目是使用react-native编写的小说App
 
 ### TodoLists
-1. 研究如何在项目中使用阿里的iconfont库 [√]
-2. 看完react-navigation 和 FlatList 并尝试使用！
+1. 研究如何在项目中使用阿里的iconfont库
+2. 看完react-navigation 和 FlatList 并尝试使用！
+
 ### 项目推进记录
 
 #### 2018-07-27 16:12:40
